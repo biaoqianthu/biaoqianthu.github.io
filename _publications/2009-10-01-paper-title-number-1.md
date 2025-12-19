@@ -3,7 +3,7 @@ title: "Unpacking the Gap Box Against Data-Free Knowledge Distillation"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-tpami-dfkd-gapbox
-excerpt: "data-free knowledge distillation"
+#excerpt: "data-free knowledge distillation"
 date: 2024-01-01
 venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10476709"
