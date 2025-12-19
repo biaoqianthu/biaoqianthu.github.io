@@ -1,7 +1,7 @@
 ---
 title: "Unpacking the Gap Box Against Data-Free Knowledge Distillation"
 collection: publications
-category: manuscripts
+#category: manuscripts
 permalink: /publication/2024-tpami-dfkd-gapbox
 #excerpt: "data-free knowledge distillation"
 date: 2024-01-01
