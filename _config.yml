@@ -23,7 +23,7 @@ repository               : "biaoqianthu/biaoqianthu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "biaoqian.jpg"
   name             : "Biao Qian"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
