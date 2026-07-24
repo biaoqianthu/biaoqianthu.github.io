@@ -14,46 +14,6 @@ redirect_from:
   <p>I received my Ph.D. in Signal and Information Processing from Hefei University of Technology in 2024. My work develops data-efficient and computation-efficient learning methods that make modern vision models easier to train and deploy.</p>
 </div>
 
-## Research Interests
-
-<div class="research-tags">
-  <span>Knowledge Distillation</span>
-  <span>Generative AI</span>
-  <span>Network Quantization</span>
-  <span>Model Compression</span>
-  <span>Computer Vision</span>
-</div>
-
-## Education and Experience
-
-<div class="academic-timeline">
-  <div class="timeline-item">
-    <span class="timeline-date">2025.06–Present</span>
-    <strong>Postdoctoral Researcher</strong>
-    <p>Department of Automation, Tsinghua University, Beijing, China</p>
-  </div>
-  <div class="timeline-item">
-    <span class="timeline-date">2024.06–2025.04</span>
-    <strong>Research Assistant</strong>
-    <p>School of Computer Science and Information Engineering, Hefei University of Technology, China</p>
-  </div>
-  <div class="timeline-item">
-    <span class="timeline-date">2018.09–2024.06</span>
-    <strong>Ph.D. in Signal and Information Processing</strong>
-    <p>School of Computer Science and Information Engineering, Hefei University of Technology, China</p>
-  </div>
-  <div class="timeline-item">
-    <span class="timeline-date">2017.09–2018.06</span>
-    <strong>Master in Signal and Information Processing</strong>
-    <p>School of Computer Science and Information Engineering, Hefei University of Technology, China</p>
-  </div>
-  <div class="timeline-item">
-    <span class="timeline-date">2013.09–2017.06</span>
-    <strong>Bachelor in Electronic Information Engineering</strong>
-    <p>School of Computer Science and Information Engineering, Hefei University of Technology, China</p>
-  </div>
-</div>
-
 ## Selected Publications
 
 <div class="publication-list">
@@ -96,12 +56,3 @@ redirect_from:
 </div>
 
 <p class="section-link"><a href="/publications/">View all publications →</a></p>
-
-## Honors and Awards
-
-- **Shuimu Tsinghua Scholar Program**, Tsinghua University, 2025
-
-## Academic Service
-
-I serve as a reviewer for major conferences including **NeurIPS, CVPR, ICCV, AAAI, ACM MM, IJCAI, ICMR,** and **EMNLP**, as well as journals including **IEEE T-PAMI, IEEE T-IP, ACM TOIS, IEEE T-NNLS, IEEE T-CSVT, CVIU, IEEE T-MM,** and **TOMM**.
-
