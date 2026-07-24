@@ -5,6 +5,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Honors and Awards"
+    url: /honors/
+
+  - title: "Academic Service"
+    url: /service/
+
   - title: "Talks"
     url: /talks/
 
