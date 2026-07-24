@@ -7,21 +7,45 @@ redirect_from:
   - /resume
 ---
 
-## Current Position
-
-**Postdoctoral Researcher**, Department of Automation, Tsinghua University, Beijing, China  
-June 2025–Present
-
 ## Education and Experience
 
-- **Research Assistant**, School of Computer Science and Information Engineering, Hefei University of Technology, 2024–2025
-- **Ph.D. in Signal and Information Processing**, Hefei University of Technology, 2018–2024
-- **Master in Signal and Information Processing**, Hefei University of Technology, 2017–2018
-- **Bachelor in Electronic Information Engineering**, Hefei University of Technology, 2013–2017
+<div class="academic-timeline">
+  <div class="timeline-item">
+    <span class="timeline-date">2025.06–Present</span>
+    <strong>Postdoctoral Researcher</strong>
+    <p>Department of Automation, Tsinghua University, Beijing, China</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2024.06–2025.04</span>
+    <strong>Research Assistant</strong>
+    <p>School of Computer Science and Information Engineering, Hefei University of Technology, China</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2018.09–2024.06</span>
+    <strong>Ph.D. in Signal and Information Processing</strong>
+    <p>School of Computer Science and Information Engineering, Hefei University of Technology, China</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2017.09–2018.06</span>
+    <strong>Master in Signal and Information Processing</strong>
+    <p>School of Computer Science and Information Engineering, Hefei University of Technology, China</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2013.09–2017.06</span>
+    <strong>Bachelor in Electronic Information Engineering</strong>
+    <p>School of Computer Science and Information Engineering, Hefei University of Technology, China</p>
+  </div>
+</div>
 
 ## Research Interests
 
-Knowledge Distillation · Generative AI · Network Quantization · Model Compression · Computer Vision
+<div class="research-tags">
+  <span>Knowledge Distillation</span>
+  <span>Generative AI</span>
+  <span>Network Quantization</span>
+  <span>Model Compression</span>
+  <span>Computer Vision</span>
+</div>
 
 ## Selected Publications
 
@@ -42,4 +66,3 @@ Knowledge Distillation · Generative AI · Network Quantization · Model Compres
 **Conference reviewer:** NeurIPS, CVPR, ICCV, AAAI, ACM MM, IJCAI, ICMR, EMNLP
 
 **Journal reviewer:** IEEE T-PAMI, IEEE T-IP, ACM TOIS, IEEE T-NNLS, IEEE T-CSVT, Computer Vision and Image Understanding, IEEE Transactions on Multimedia, ACM TOMM
-
