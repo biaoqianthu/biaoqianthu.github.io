@@ -5,32 +5,91 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com/citations?hl=en&user=hSaWNR0AAAAJ}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<p class="page-lead">Selected peer-reviewed publications. A complete and up-to-date citation record is available on <a href="https://scholar.google.com/citations?user=hSaWNR0AAAAJ">Google Scholar</a>. <strong>Biao Qian</strong> denotes the site author; * denotes corresponding author.</p>
 
-{% include base_path %}
+<div class="publication-list publication-list--full">
+  <article class="publication-card">
+    <img class="publication-thumb" src="/images/publications/gapssg.png" alt="GapSSG method overview" loading="lazy">
+    <div class="publication-body">
+      <span class="publication-venue">IEEE Transactions on Pattern Analysis and Machine Intelligence · 2024</span>
+      <h2>Unpacking the Gap Box Against Data-Free Knowledge Distillation</h2>
+      <p>Yang Wang, <strong>Biao Qian</strong>, Haipeng Liu, Yong Rui, Meng Wang*</p>
+      <p class="publication-links"><a href="https://ieeexplore.ieee.org/abstract/document/10476709">Paper</a><a href="https://github.com/hfutqian/GapSSG">Code</a><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Xdzu2SgfpsQJ:scholar.google.com/&amp;output=citation">BibTeX</a></p>
+    </div>
+  </article>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  <article class="publication-card">
+    <img class="publication-thumb" src="/images/publications/adadfq.png" alt="Adaptive Data-Free Quantization method overview" loading="lazy">
+    <div class="publication-body">
+      <span class="publication-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition · 2023</span>
+      <h2>Adaptive Data-Free Quantization</h2>
+      <p><strong>Biao Qian</strong>, Yang Wang*, Richang Hong, Meng Wang</p>
+      <p>CVPR 2023, pp. 7960–7968.</p>
+      <p class="publication-links"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Qian_Adaptive_Data-Free_Quantization_CVPR_2023_paper.pdf">Paper</a><a href="https://github.com/hfutqian/AdaDFQ">Code</a><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:h8MxtYOvhPEJ:scholar.google.com/&amp;output=citation">BibTeX</a></p>
+    </div>
+  </article>
 
+  <article class="publication-card">
+    <img class="publication-thumb" src="/images/publications/adasg.png" alt="AdaSG method overview" loading="lazy">
+    <div class="publication-body">
+      <span class="publication-venue">AAAI Conference on Artificial Intelligence · 2023</span>
+      <h2>Rethinking Data-Free Quantization as a Zero-Sum Game</h2>
+      <p><strong>Biao Qian</strong>, Yang Wang*, Richang Hong, Meng Wang</p>
+      <p>AAAI 2023, pp. 9489–9497.</p>
+      <p class="publication-links"><a href="https://arxiv.org/pdf/2302.09572.pdf">Paper</a><a href="https://github.com/hfutqian/AdaSG">Code</a><a href="https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/download/bibtex?submissionId=26136&amp;publicationId=24416">BibTeX</a></p>
+    </div>
+  </article>
 
+  <article class="publication-card">
+    <img class="publication-thumb" src="/images/publications/switokd.png" alt="Switchable Online Knowledge Distillation method overview" loading="lazy">
+    <div class="publication-body">
+      <span class="publication-venue">European Conference on Computer Vision · 2022</span>
+      <h2>Switchable Online Knowledge Distillation</h2>
+      <p><strong>Biao Qian</strong>, Yang Wang*, Hongzhi Yin, Richang Hong, Meng Wang</p>
+      <p>ECCV 2022, pp. 449–466.</p>
+      <p class="publication-links"><a href="https://link.springer.com/chapter/10.1007/978-3-031-20083-0_27">Paper</a><a href="https://github.com/hfutqian/SwitOKD">Code</a><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:s0PsGMaNqFwJ:scholar.google.com/&amp;output=citation">BibTeX</a></p>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <img class="publication-thumb" src="/images/publications/m2net.png" alt="Moving-Mobile-Network method overview" loading="lazy">
+    <div class="publication-body">
+      <span class="publication-venue">IEEE Transactions on Image Processing · 2021</span>
+      <h2>Diversifying Inference Path Selection: Moving-Mobile-Network for Landmark Recognition</h2>
+      <p><strong>Biao Qian</strong>, Yang Wang*, Richang Hong, Meng Wang, Ling Shao</p>
+      <p>IEEE T-IP, vol. 30, pp. 4894–4904.</p>
+      <p class="publication-links"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9423528">Paper</a><a href="https://github.com/hfutqian/Diversifying-Inference-Path-Selection-Moving-Mobile-Network-for-Landmark-Recognition">Code</a><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:J6DjfWco3joJ:scholar.google.com/&amp;output=citation">BibTeX</a></p>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <img class="publication-thumb" src="/images/publications/StrDiffusion.png" alt="Structure Matters diffusion method overview" loading="lazy">
+    <div class="publication-body">
+      <span class="publication-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition · 2024</span>
+      <h2>Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting</h2>
+      <p>Haipeng Liu, Yang Wang*, <strong>Biao Qian</strong>, Meng Wang, Yong Rui</p>
+      <p class="publication-links"><a href="https://arxiv.org/abs/2403.19898">Paper</a><a href="https://github.com/htyjers/StrDiffusion">Code</a><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:HbCu10f-MyQJ:scholar.google.com/&amp;output=citation">BibTeX</a></p>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <img class="publication-thumb" src="/images/publications/loc.png" alt="Graph contrastive learning method overview" loading="lazy">
+    <div class="publication-body">
+      <span class="publication-venue">IEEE Transactions on Circuits and Systems for Video Technology · 2024</span>
+      <h2>Seeking False Hard Negatives for Graph Contrastive Learning</h2>
+      <p>Xin Liu, <strong>Biao Qian</strong>, Haipeng Liu, Yang Wang, Meng Wang</p>
+      <p class="publication-links"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10445278">Paper</a><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:PsHEtr5GeWwJ:scholar.google.com/&amp;output=citation">BibTeX</a></p>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <img class="publication-thumb" src="/images/publications/ffgan.png" alt="Fine-grained cross-modal fusion method overview" loading="lazy">
+    <div class="publication-body">
+      <span class="publication-venue">Chinese Journal of Electronics · 2023</span>
+      <h2>Fine-grained Cross-modal Fusion based Refinement for Text-to-Image Synthesis</h2>
+      <p>Haoran Sun, Yang Wang*, Haipeng Liu, <strong>Biao Qian</strong>, Meng Wang</p>
+      <p class="publication-links"><a href="https://arxiv.org/pdf/2302.08706.pdf">Paper</a><a href="https://github.com/haoranhfut/FF-GAN">Code</a><a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Yqsn9LLk9esJ:scholar.google.com/&amp;output=citation">BibTeX</a></p>
+    </div>
+  </article>
+</div>
 
