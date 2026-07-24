@@ -176,9 +176,52 @@
   box-shadow: 0 0.2rem 0.8rem rgba(0, 0, 0, 0.12);
 }
 
+.service-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+}
+
+.service-card {
+  padding: 1.25rem 1.4rem;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-top: 4px solid #2f6f9f;
+  border-radius: 0.55rem;
+  background: rgba(255, 255, 255, 0.5);
+  box-shadow: 0 0.15rem 0.6rem rgba(0, 0, 0, 0.035);
+}
+
+.service-card h2 {
+  margin: 0 0 0.9rem;
+  color: #24597e;
+  font-size: 1.1rem;
+}
+
+.service-card ul {
+  margin: 0;
+  padding-left: 1.15rem;
+}
+
+.service-card li {
+  margin: 0.5rem 0;
+  line-height: 1.45;
+}
+
+.service-card li::marker {
+  color: #2f6f9f;
+}
+
+.service-card span {
+  color: #5f6b72;
+  font-size: 0.88em;
+  font-weight: 600;
+}
+
 @media (max-width: 720px) {
   .publication-list,
-  .publication-list--full .publication-card {
+  .publication-list--full .publication-card,
+  .service-grid {
     grid-template-columns: 1fr;
   }
 
@@ -190,4 +233,3 @@
     padding: 1rem 1.1rem;
   }
 }
-
