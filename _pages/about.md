@@ -18,6 +18,33 @@ redirect_from:
 
 <div class="publication-list">
   <article class="publication-card">
+    <img class="publication-thumb" src="/images/publications/maskaq.png" alt="Masked Attention Alignment for Data-Free Quantization of Vision Transformers" loading="lazy">
+    <div class="publication-body">
+      <span class="publication-venue">ICML · 2026</span>
+      <h3>Selective Coupling of Decoupled Informative Regions: Masked Attention Alignment for Data-Free Quantization of Vision Transformers</h3>
+      <p><strong>Biao Qian</strong>, Yang Wang, Yong Wu, Jungong Han*</p>
+      <p class="publication-links"><a href="https://arxiv.org/pdf/2606.04373">Paper</a><a href="https://github.com/hfutqian/MaskAQ">Code</a></p>
+    </div>
+  </article>
+  <article class="publication-card">
+    <img class="publication-thumb" src="/images/publications/atv.png" alt="Asymmetric Text-Visual Pruning for Large Vision-Language Models" loading="lazy">
+    <div class="publication-body">
+      <span class="publication-venue">CVPR · 2026</span>
+      <h3>Mostly Text, Smart Visuals: Asymmetric Text-Visual Pruning for Large Vision-Language Models</h3>
+      <p>Sijie Li, <strong>Biao Qian</strong>, Jungong Han*</p>
+      <p class="publication-links"><a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Mostly_Text_Smart_Visuals_Asymmetric_Text-Visual_Pruning_for_Large_Vision-Language_CVPR_2026_paper.pdf">Paper</a><a href="https://github.com/LezJ/ATV-Pruning">Code</a></p>
+    </div>
+  </article>
+  <article class="publication-card">
+    <img class="publication-thumb" src="/images/publications/ait2i.png" alt="AI-T2I text-to-image synthesis method overview" loading="lazy">
+    <div class="publication-body">
+      <span class="publication-venue">IEEE T-MM · 2026</span>
+      <h3>AI-T2I: Aggregating-and-Isolating Cross-Attention to Diffusion Models for Text-to-Image Synthesis</h3>
+      <p>Shipeng Cao, <strong>Biao Qian*</strong>, Haipeng Liu, Yang Wang*, Meng Wang</p>
+      <p class="publication-links"><a href="https://arxiv.org/pdf/2605.25763">Paper</a><a href="https://github.com/Hatter77/AI-T2I">Code</a></p>
+    </div>
+  </article>
+  <article class="publication-card">
     <img class="publication-thumb" src="/images/publications/gapssg.png" alt="GapSSG method overview" loading="lazy">
     <div class="publication-body">
       <span class="publication-venue">IEEE T-PAMI · 2024</span>
