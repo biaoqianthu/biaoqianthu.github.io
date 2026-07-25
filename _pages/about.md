@@ -10,8 +10,8 @@ redirect_from:
 
 <div class="profile-intro">
   <p class="profile-kicker">Postdoctoral Researcher · Tsinghua University</p>
-  <p>I am a Postdoctoral Researcher in the <strong>Department of Automation at Tsinghua University</strong>, Beijing, China. My research focuses on efficient deep learning, with an emphasis on knowledge distillation, generative AI, network quantization, model compression, and computer vision.</p>
-  <p>I received my Ph.D. in Signal and Information Processing from Hefei University of Technology in 2024. My work develops data-efficient and computation-efficient learning methods that make modern vision models easier to train and deploy.</p>
+  <p>I am currently a Postdoctoral Researcher in the Department of Automation at Tsinghua University, Beijing, China. I received my Ph.D. degree in Signal and Information Processing from Hefei University of Technology, Hefei, China. My primary research interests include computer vision, model compression and lightweight MLLMs, with an emphasis on knowledge distillation, generative AI and network quantization.</p>
+
 </div>
 
 ## Selected Publications
