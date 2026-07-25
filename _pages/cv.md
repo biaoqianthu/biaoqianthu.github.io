@@ -44,6 +44,7 @@ redirect_from:
   <span>Generative AI</span>
   <span>Network Quantization</span>
   <span>Model Compression</span>
+  <span>Lightweight MLLMs</span>
   <span>Computer Vision</span>
 </div>
 
@@ -62,6 +63,7 @@ redirect_from:
 
 ## Honors and Awards
 
+- **General Program of the China Postdoctoral Science Foundation**, 2026
 - **Shuimu Tsinghua Scholar Program**, Tsinghua University, 2025
 
 ## Academic Service
