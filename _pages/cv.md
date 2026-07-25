@@ -68,6 +68,6 @@ redirect_from:
 
 ## Academic Service
 
-**Conference reviewer:** NeurIPS, CVPR, ICCV, AAAI, ACM MM, IJCAI, ICMR, EMNLP
+**Conference reviewer:** NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, ACM MM, IJCAI, ICMR, EMNLP
 
 **Journal reviewer:** IEEE T-PAMI, IEEE T-IP, ACM TOIS, IEEE T-NNLS, IEEE T-CSVT, Computer Vision and Image Understanding, IEEE Transactions on Multimedia, ACM TOMM
