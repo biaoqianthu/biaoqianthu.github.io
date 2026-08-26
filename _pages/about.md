@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 <div class="profile-intro">
-  <p class="profile-kicker">Postdoctoral Researcher · Tsinghua University</p>
-  <p>I am currently a Postdoctoral Researcher in the Department of Automation at Tsinghua University (advised by <a href="https://jungonghan.github.io/">Prof. Jungong Han</a>). Before that, I received my Ph.D. degree in Signal and Information Processing from Hefei University of Technology (advised by <a href="https://sites.google.com/site/homeofrichanghong/">Prof. Richang Hong</a> and <a href="https://sites.google.com/view/wayag/home">Prof. Yang Wang</a>). My primary research interests include computer vision, model compression and lightweight MLLMs, with an emphasis on knowledge distillation, generative AI and network quantization.</p>
+  <p class="profile-kicker">Postdoctoral Fellow · Tsinghua University</p>
+  <p>I am currently a Postdoctoral Fellow in the Department of Automation at Tsinghua University (advised by <a href="https://jungonghan.github.io/">Prof. Jungong Han</a>). Before that, I received my Ph.D. degree in Signal and Information Processing from Hefei University of Technology (advised by <a href="https://sites.google.com/site/homeofrichanghong/">Prof. Richang Hong</a> and <a href="https://sites.google.com/view/wayag/home">Prof. Yang Wang</a>). My primary research interests include computer vision, model compression and lightweight MLLMs, with an emphasis on knowledge distillation, generative AI and network quantization.</p>
 
 </div>
 

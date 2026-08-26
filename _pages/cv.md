@@ -12,7 +12,7 @@ redirect_from:
 <div class="academic-timeline">
   <div class="timeline-item">
     <span class="timeline-date">2025.06–Present</span>
-    <strong>Postdoctoral Researcher</strong>
+    <strong>Postdoctoral Fellow</strong>
     <p>Department of Automation, Tsinghua University, Beijing, China</p>
   </div>
   <div class="timeline-item">
