@@ -61,8 +61,9 @@ redirect_from:
 
 [View the complete publication list →](/publications/)
 
-## Honors and Awards
+## Honors and Fundings
 
+- **Young Scientists Fund (C) from National Natural Science Foundation of China**, 2026
 - **General Program of the China Postdoctoral Science Foundation**, 2026
 - **Shuimu Tsinghua Scholar Program**, Tsinghua University, 2025
 
