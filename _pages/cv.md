@@ -50,18 +50,18 @@ redirect_from:
 
 ## Selected Publications
 
-1. **Biao Qian**, Yang Wang, Yong Wu, Jungong Han*. “Selective Coupling of Decoupled Informative Regions: Masked Attention Alignment for Data-Free Quantization of Vision Transformers.” *International Conference on Machine Learning (ICML)*, 2026. (**CCF A**)
-2. Sijie Li, **Biao Qian**, Jungong Han*. “Mostly Text, Smart Visuals: Asymmetric Text-Visual Pruning for Large Vision-Language Models.” *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2026. (**CCF A**)
-3. Shipeng Cao, **Biao Qian***, Haipeng Liu, Yang Wang*, Meng Wang. “AI-T2I: Aggregating-and-Isolating Cross-Attention to Diffusion Models for Text-to-Image Synthesis.” *IEEE Transactions on Multimedia*, 2026. (**CCF A**)
-4. Yang Wang, **Biao Qian**, Haipeng Liu, Yong Rui, Meng Wang*. “Unpacking the Gap Box Against Data-Free Knowledge Distillation.” *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2024. (**CCF A, IF=20.8**)
-5. **Biao Qian**, Yang Wang*, Richang Hong, Meng Wang. “Adaptive Data-Free Quantization.” *CVPR*, 2023, pp. 7960–7968. (**CCF A**)
-6. **Biao Qian**, Yang Wang*, Richang Hong, Meng Wang. “Rethinking Data-Free Quantization as a Zero-Sum Game.” *AAAI*, 2023, pp. 9489–9497. (**CCF A**)
-7. **Biao Qian**, Yang Wang*, Hongzhi Yin, Richang Hong, Meng Wang. “Switchable Online Knowledge Distillation.” *ECCV*, 2022, pp. 449–466. (**CCF B**)
-8. **Biao Qian**, Yang Wang*, Richang Hong, Meng Wang, Ling Shao. “Diversifying Inference Path Selection: Moving-Mobile-Network for Landmark Recognition.” *IEEE Transactions on Image Processing*, 2021. (**CCF A, IF=10.8**)
-9. Haipeng Liu, Yang Wang*, **Biao Qian**, Meng Wang, Yong Rui. “Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting.” *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024. (**CCF A**)
-10. Xin Liu, **Biao Qian**, Haipeng Liu, Yang Wang, Meng Wang. “Seeking False Hard Negatives for Graph Contrastive Learning.” *IEEE Transactions on Circuits and Systems for Video Technology*, 2024. (**CCF B, IF=11.1**)
-11. Yang Wang, Haipeng Liu, Zeqian Yi, **Biao Qian**, Meng Wang. "Coarse-to-fine lightweight meta-embedding for ID-based recommendations". *Science China Information Sciences*, 2025. (**CCF A**)
-12. Haoran Sun, Yang Wang*, Haipeng Liu, **Biao Qian**, Meng Wang. “Fine-grained Cross-modal Fusion based Refinement for Text-to-Image Synthesis.” *Chinese Journal of Electronics*, 2023.
+1. **Biao Qian**, Yang Wang, Yong Wu, Jungong Han*. “<a href="https://arxiv.org/pdf/2606.04373"><u>Selective Coupling of Decoupled Informative Regions: Masked Attention Alignment for Data-Free Quantization of Vision Transformers</u></a>.” **International Conference on Machine Learning (ICML)**, 2026. (**CCF A**)
+2. Sijie Li, **Biao Qian**, Jungong Han*. “<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Mostly_Text_Smart_Visuals_Asymmetric_Text-Visual_Pruning_for_Large_Vision-Language_CVPR_2026_paper.pdf"><u>Mostly Text, Smart Visuals: Asymmetric Text-Visual Pruning for Large Vision-Language Models</u></a>.” **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2026. (**CCF A**)
+3. Shipeng Cao, **Biao Qian***, Haipeng Liu, Yang Wang*, Meng Wang. “<a href="https://arxiv.org/pdf/2605.25763"><u>AI-T2I: Aggregating-and-Isolating Cross-Attention to Diffusion Models for Text-to-Image Synthesis</u></a>.” **IEEE Transactions on Multimedia**, 2026. (**CCF A**)
+4. Yang Wang, **Biao Qian**, Haipeng Liu, Yong Rui, Meng Wang*. “<a href="https://ieeexplore.ieee.org/abstract/document/10476709"><u>Unpacking the Gap Box Against Data-Free Knowledge Distillation</u></a>.” **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2024. (**CCF A, IF=20.8**)
+5. **Biao Qian**, Yang Wang*, Richang Hong, Meng Wang. “<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Qian_Adaptive_Data-Free_Quantization_CVPR_2023_paper.pdf"><u>Adaptive Data-Free Quantization</u></a>.” **CVPR**, 2023, pp. 7960–7968. (**CCF A**)
+6. **Biao Qian**, Yang Wang*, Richang Hong, Meng Wang. “<a href="https://arxiv.org/pdf/2302.09572.pdf"><u>Rethinking Data-Free Quantization as a Zero-Sum Game</u></a>.” **AAAI**, 2023, pp. 9489–9497. (**CCF A**)
+7. **Biao Qian**, Yang Wang*, Hongzhi Yin, Richang Hong, Meng Wang. “<a href="https://link.springer.com/chapter/10.1007/978-3-031-20083-0_27"><u>Switchable Online Knowledge Distillation</u></a>.” **ECCV**, 2022, pp. 449–466. (**CCF B**)
+8. **Biao Qian**, Yang Wang*, Richang Hong, Meng Wang, Ling Shao. “<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9423528"><u>Diversifying Inference Path Selection: Moving-Mobile-Network for Landmark Recognition</u></a>.” **IEEE Transactions on Image Processing**, 2021. (**CCF A, IF=10.8**)
+9. Haipeng Liu, Yang Wang*, **Biao Qian**, Meng Wang, Yong Rui. “<a href="https://arxiv.org/abs/2403.19898"><u>Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting</u></a>.” **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2024. (**CCF A**)
+10. Xin Liu, **Biao Qian**, Haipeng Liu, Yang Wang, Meng Wang. “<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10445278"><u>Seeking False Hard Negatives for Graph Contrastive Learning</u></a>.” **IEEE Transactions on Circuits and Systems for Video Technology**, 2024. (**CCF B, IF=11.1**)
+11. Yang Wang, Haipeng Liu, Zeqian Yi, **Biao Qian**, Meng Wang. “<a href="https://link.springer.com/article/10.1007/s11432-024-4350-9"><u>Coarse-to-fine Lightweight Meta-embedding for ID-based Recommendations</u></a>.” **Science China Information Sciences**, 2025. (**CCF A**)
+12. Haoran Sun, Yang Wang*, Haipeng Liu, **Biao Qian**, Meng Wang. “<a href="https://arxiv.org/pdf/2302.08706.pdf"><u>Fine-grained Cross-modal Fusion based Refinement for Text-to-Image Synthesis</u></a>.” **Chinese Journal of Electronics**, 2023.
 
 ## Honors and Fundings
 
