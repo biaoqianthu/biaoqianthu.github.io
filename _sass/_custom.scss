@@ -138,6 +138,14 @@
   font-size: 0.9rem;
 }
 
+.publication-corresponding {
+  display: inline-block;
+  margin-left: 0.05em;
+  font-size: 0.72em;
+  line-height: 1;
+  vertical-align: super;
+}
+
 .publication-links {
   display: flex;
   flex-wrap: wrap;
